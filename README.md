@@ -1,2 +1,2 @@
 # Dendron
-Dendron Calculator - It performs Uninary and Binary operation, including add, subtract, multiply, divide, power, mod
+Dendron Calculator - It performs Unary and Binary operation, including add, subtract, multiply, divide, power, mod
